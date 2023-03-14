@@ -40,17 +40,17 @@
 }
 
 .product-item__name {
-    font-size: 24px;
+    font-size: 20px;
     color: var(--blue);
 }
 
 .product-item__price {
     color: var(--orange);
-    font-size: 32px;
+    font-size: 25px;
     font-weight: bold;
 }
 
-.product-item__price-deion {
+.product-item__price-description {
     color: var(--gray);
     font-size: 12px;
     font-weight: bold;
@@ -60,7 +60,7 @@
     background-color: var(--blue);
     border: none;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     padding: 6px 12px;
 }
 
